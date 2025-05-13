@@ -1,7 +1,6 @@
 <p align="center">
- <img src="https://i.ibb.co/xt9T4wXc/file-0000000002bc61f583c5afabb676fe07-1.png" alt="file-0000000002bc61f583c5afabb676fe07-1" width="500" border="0">
+ <img src="https://i.ibb.co/HfhmYYcm/Every-day-is-the-same-day-today-is-the-tomorrow-you-will-pursue.png" width="100%" alt="Every-day-is-the-same-day-today-is-the-tomorrow-you-will-pursue" border="0">
 </p>
-
 <h1 align="center">Hi there 👋 I'm Ikhsan Dwi Saputra</h1>
 
 ## 🧑‍💻 About Me
