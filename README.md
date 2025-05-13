@@ -1,10 +1,8 @@
-<h1 align="center">Hi there 👋 I'm Ikhsan Dwi Saputra</h1>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWh4ZnJ5Y25waWNqdmF3b2c0ZXZkN3Z6bXVqNHQwN3Jld3dtamN1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT1XGzLnbB0dDUPbni/giphy.gif" width="300" alt="Cool Anime GIF">
+ <img src="https://i.ibb.co/xt9T4wXc/file-0000000002bc61f583c5afabb676fe07-1.png" alt="file-0000000002bc61f583c5afabb676fe07-1" width="500" border="0">
 </p>
 
----
+<h1 align="center">Hi there 👋 I'm Ikhsan Dwi Saputra</h1>
 
 ## 🧑‍💻 About Me
 
