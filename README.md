@@ -1,9 +1,9 @@
 <p align="center">
  <img src="https://i.ibb.co/HfhmYYcm/Every-day-is-the-same-day-today-is-the-tomorrow-you-will-pursue.png" width="100%" alt="Every-day-is-the-same-day-today-is-the-tomorrow-you-will-pursue" border="0">
 </p>
-<h1 align="center">Hi there 👋 I'm Ikhsan Dwi Saputra</h1>
 
-## 🧑‍💻 About Me
+ 🧑‍💻 About Me
+ --
 
 ✨ I'm **Ikhsan Dwi Saputra** — a passionate soul in love with **coding, creativity, and all things web**.
 
@@ -18,18 +18,6 @@ The more I learn, the more I realize how much I still don't know — and that ex
 💪 I will keep **learning and coding until the day I die**.  
 
 ---
-
-## 🎮 Hobbies & Interests
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Coding-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Gaming-%231877F2.svg?style=for-the-badge&logo=steam&logoColor=white">
-  <img src="https://img.shields.io/badge/Movies-%23E50914.svg?style=for-the-badge&logo=netflix&logoColor=white">
-  <img src="https://img.shields.io/badge/Music-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white">
-</p>
-
----
-
 ## 🚀 Tech Stack
 
 <p align="center">
@@ -40,23 +28,6 @@ The more I learn, the more I realize how much I still don't know — and that ex
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 </p>
-
----
-
-## 🖼️ Aesthetic Vibes
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/6d/fc/34/6dfc34845cc7036f13be081985d1966d.gif" width="300" alt="Anime Coding Aesthetic" />
-  <img src="https://i.pinimg.com/originals/68/90/46/689046b42cb31e9df9d6fd0f04b8a7e0.gif" width="300" alt="Cool Anime Hacker" />
-</p>
-
----
-
-## 🗂️ Currently Working On
-
-- Learning more about **frontend and backend development**
-- Building personal web projects
-- Exploring new design ideas in CSS and UI/UX
 
 ---
 
