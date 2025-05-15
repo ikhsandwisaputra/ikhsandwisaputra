@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=FreePalestine🇵🇸" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=%23FreePalestine🇵🇸+%23StopGenocide👶🏻" />
 </p>
 
  🧑‍💻 About Me
@@ -55,6 +55,14 @@ The more I learn, the more I realize how much I still don't know — and that ex
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <!-- Badge Astro -->
+  <img src="https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white" />
+
+  <!-- Badge Prisma -->
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+
+  <!-- Badge SQLite -->
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 
 </p>
 
