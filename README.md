@@ -38,7 +38,7 @@ The more I learn, the more I realize how much I still don't know — and that ex
 
 💪 I will keep **learning and coding until the day I die**.  
 
-## 🚀 Tech Stack
+## 🚀 Have Explored 
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
