@@ -1,8 +1,7 @@
 <p align="center">
- <img src="https://i.ibb.co/HfhmYYcm/Every-day-is-the-same-day-today-is-the-tomorrow-you-will-pursue.png" width="100%" alt="Every-day-is-the-same-day-today-is-the-tomorrow-you-will-pursue" border="0">
+ <img src="https://s14.gifyu.com/images/bsuEg.gif" width="100%" alt="Every-day-is-the-same-day-today-is-the-tomorrow-you-will-pursue" border="0">
 </p>
 
-<a href="https://ibb.co/4ZpdDHhL"><img src="https://i.ibb.co/VWTmhsfG/c73681368a6ce7a5be286bdb59b68a8e-1.gif" alt="c73681368a6ce7a5be286bdb59b68a8e-1" border="0"></a>
 
 <!-- Pastikan font-awesome aktif di GitHub profile README -->
 <p align="center">
