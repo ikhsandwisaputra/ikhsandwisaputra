@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://s14.gifyu.com/images/bsuEg.gif" width="100%" alt="Every-day-is-the-same-day-today-is-the-tomorrow-you-will-pursue" border="0">
+ <img src="https://s14.gifyu.com/images/bseVd.gif" width="100%" alt="b83d41d0c74b49789bf18378d706c10d" border="0" />
 </p>
 
 
